@@ -1,7 +1,5 @@
 A modern, visually appealing website interface built using only **HTML** and **CSS**, focusing on fundamental web development skills and CSS capabilities.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here) <!-- Replace with your actual screenshot -->
-
 ## 🚀 Live Demo
 
 [View Live Project](https://your-live-demo-link.netlify.app) <!-- Replace with your actual live demo link -->
