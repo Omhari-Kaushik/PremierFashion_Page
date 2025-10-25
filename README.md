@@ -2,7 +2,7 @@ A modern, visually appealing website interface built using only **HTML** and **C
 
 ## 🚀 Live Demo
 
-[View Live Project](https://your-live-demo-link.netlify.app) <!-- Replace with your actual live demo link -->
+[View Live Project](https://omhari-kaushik.github.io/PremierFashion_Page/) <!-- Replace with your actual live demo link -->
 
 ## ✨ Features
 
